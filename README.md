@@ -9,5 +9,5 @@ Computer Science Engineering (CSE) and Information and Technology (IT) are techn
 | 1 | RVL-CDIP Dataset | [🔗](https://www.cs.cmu.edu/~aharley/rvl-cdip/) |
 | 2 | Caltech-UCSD Birds 200 Dataset | [🔗](http://www.vision.caltech.edu/visipedia/CUB-200.html) |
 | 3 | The Oxford Buildings Dataset  | [🔗](https://www.robots.ox.ac.uk/~vgg/data/oxbuildings/index.html) |
-| 4 | CUHK Face Sketch Database  | [🔗]( http://mmlab.ie.cuhk.edu.hk/archive/facesketch.html |
+| 4 | CUHK Face Sketch Database  | [🔗]( http://mmlab.ie.cuhk.edu.hk/archive/facesketch.html) |
 
