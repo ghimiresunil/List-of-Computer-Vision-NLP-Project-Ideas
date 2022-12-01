@@ -10,7 +10,7 @@ Computer Science Engineering (CSE) and Information and Technology (IT) are techn
 | 2 | Caltech-UCSD Birds 200 Dataset | [🔗](http://www.vision.caltech.edu/visipedia/CUB-200.html) |
 | 3 | The Oxford Buildings Dataset  | [🔗](https://www.robots.ox.ac.uk/~vgg/data/oxbuildings/index.html) |
 | 4 | CUHK Face Sketch Database  | [🔗]( http://mmlab.ie.cuhk.edu.hk/archive/facesketch.html) |
-| 5 | Flower Dataset   | [🔗] (https://www.robots.ox.ac.uk/~vgg/data/flowers/index.html) |
-| 6 | Posenet Dataset  | [🔗] (https://github.com/tensorflow/tfjs-models/tree/master/posenet) |
-| 7 | The Street View House Numbers (SVHN) Dataset | [🔗] (http://ufldl.stanford.edu/housenumbers/) |
+| 5 | Flower Dataset | [🔗](https://www.robots.ox.ac.uk/~vgg/data/flowers/index.html) |
+| 6 | Posenet Dataset  | [🔗](https://github.com/tensorflow/tfjs-models/tree/master/posenet) |
+| 7 | The Street View House Numbers (SVHN) Dataset | [🔗](http://ufldl.stanford.edu/housenumbers/) |
 
