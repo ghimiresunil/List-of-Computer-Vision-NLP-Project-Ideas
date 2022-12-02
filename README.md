@@ -13,4 +13,12 @@ Computer Science Engineering (CSE) and Information and Technology (IT) are techn
 | 5 | Flower Dataset | [🔗](https://www.robots.ox.ac.uk/~vgg/data/flowers/index.html) |
 | 6 | Posenet Dataset  | [🔗](https://github.com/tensorflow/tfjs-models/tree/master/posenet) |
 | 7 | The Street View House Numbers (SVHN) Dataset | [🔗](http://ufldl.stanford.edu/housenumbers/) |
+| 8 | Fashion MNIST Dataset | [🔗](http://yann.lecun.com/exdb/mnist/) |
+| 9 | Hypersim Dataset | [🔗](https://github.com/apple/ml-hypersim) |
+| 10 | IMDB-Wiki Dataset | [🔗](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/) |
+| 11 | CIFAR-10 Dataset | [🔗](http://www.cs.toronto.edu/~kriz/cifar.html) |
+| 12 | Open Images Dataset | [🔗](https://storage.googleapis.com/openimages/web/index.html) |
+| 13 | ImageNet Dataset | [🔗](https://image-net.org/) |
+| 14 | MS Coco Dataset | [🔗](https://cocodataset.org/#home) |
+
 
