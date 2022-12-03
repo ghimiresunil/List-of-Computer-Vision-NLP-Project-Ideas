@@ -20,5 +20,12 @@ Computer Science Engineering (CSE) and Information and Technology (IT) are techn
 | 12 | Open Images Dataset | [🔗](https://storage.googleapis.com/openimages/web/index.html) |
 | 13 | ImageNet Dataset | [🔗](https://image-net.org/) |
 | 14 | MS Coco Dataset | [🔗](https://cocodataset.org/#home) |
+| 15 | Labeled Faces in the Wild Dataset | [🔗](http://vis-www.cs.umass.edu/lfw/) |
+| 16 | Barkley DeepDrive Dataset | [🔗](https://www.bdd100k.com/) |
+| 17 | Labelme Dataset | [🔗](http://places.csail.mit.edu/index.html) |
+| 18 | Places Dataset | [🔗](http://labelme.csail.mit.edu/Release3.0/browserTools/php/dataset.php) |
+| 19 | YouTube-8M Segments Dataset | [🔗](https://research.google.com/youtube8m/download.html) |
+| 20 | Stanford Dogs Dataset  | [🔗](http://vision.stanford.edu/aditya86/ImageNetDogs/) |
+
 
 
