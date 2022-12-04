@@ -25,7 +25,10 @@ Computer Science Engineering (CSE) and Information and Technology (IT) are techn
 | 17 | Labelme Dataset | [🔗](http://places.csail.mit.edu/index.html) |
 | 18 | Places Dataset | [🔗](http://labelme.csail.mit.edu/Release3.0/browserTools/php/dataset.php) |
 | 19 | YouTube-8M Segments Dataset | [🔗](https://research.google.com/youtube8m/download.html) |
-| 20 | Stanford Dogs Dataset  | [🔗](http://vision.stanford.edu/aditya86/ImageNetDogs/) |
+| 20 | Stanford Dogs Dataset | [🔗](http://vision.stanford.edu/aditya86/ImageNetDogs/) |
+| 21 | Unidentified Video Objects (UVO) Dataset | [🔗](https://sites.google.com/view/unidentified-video-object/home) |
+| 22 | SODA10M Dataset  | [🔗](https://soda-2d.github.io/index.html) |
+| 23 | TextSeg Dataset | [🔗](https://github.com/SHI-Labs/Rethinking-Text-Segmentation) |
 
 
 
