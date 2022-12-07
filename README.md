@@ -29,6 +29,8 @@ Computer Science Engineering (CSE) and Information and Technology (IT) are techn
 | 21 | Unidentified Video Objects (UVO) Dataset | [🔗](https://sites.google.com/view/unidentified-video-object/home) |
 | 22 | SODA10M Dataset  | [🔗](https://soda-2d.github.io/index.html) |
 | 23 | TextSeg Dataset | [🔗](https://github.com/SHI-Labs/Rethinking-Text-Segmentation) |
+| 24 | Clothing1M Dataset | [🔗](https://github.com/Cysu/noisy_label) |
+| 25 | MPII Human Pose Dataset | [🔗](http://human-pose.mpi-inf.mpg.de/#) |
 
 
 
