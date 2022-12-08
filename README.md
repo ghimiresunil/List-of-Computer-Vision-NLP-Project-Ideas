@@ -31,6 +31,8 @@ Computer Science Engineering (CSE) and Information and Technology (IT) are techn
 | 23 | TextSeg Dataset | [🔗](https://github.com/SHI-Labs/Rethinking-Text-Segmentation) |
 | 24 | Clothing1M Dataset | [🔗](https://github.com/Cysu/noisy_label) |
 | 25 | MPII Human Pose Dataset | [🔗](http://human-pose.mpi-inf.mpg.de/#) |
+| 26 | Columbia University Image Library Dataset| [🔗](https://www1.cs.columbia.edu/CAVE/software/softlib/coil-100.php) |
+| 27 | Home Objects Dataset | [🔗](http://www.vision.caltech.edu/pmoreels/Datasets/Home_Objects_06/) |
 
 
 
