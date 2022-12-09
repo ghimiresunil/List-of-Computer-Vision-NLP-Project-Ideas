@@ -36,7 +36,7 @@ Computer Science Engineering (CSE) and Information and Technology (IT) are techn
 | 28 | Kinetics-700 Dataset | [🔗](http://www.vision.caltech.edu/pmoreels/Datasets/Home_Objects_06/) |
 | 29 | Unity Home Interior Dataset | [🔗](https://resources.unity.com/ai-ml/sample-home-datasets) |
 | 30 | Visual Genome Dataset | [🔗](http://visualgenome.org/?ref=hackernoon.com) |
-| 31 | HMegaFace Dataset | [🔗](http://megaface.cs.washington.edu/dataset/download.html |
+| 31 | MegaFace Dataset | [🔗](http://megaface.cs.washington.edu/dataset/download.html) |
 | 32 | Indoor Scene Recognition Dataset | [🔗](http://web.mit.edu/torralba/www/indoor.html) |
 
 
