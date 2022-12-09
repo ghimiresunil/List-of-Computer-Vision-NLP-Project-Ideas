@@ -32,7 +32,12 @@ Computer Science Engineering (CSE) and Information and Technology (IT) are techn
 | 24 | Clothing1M Dataset | [🔗](https://github.com/Cysu/noisy_label) |
 | 25 | MPII Human Pose Dataset | [🔗](http://human-pose.mpi-inf.mpg.de/#) |
 | 26 | Columbia University Image Library Dataset| [🔗](https://www1.cs.columbia.edu/CAVE/software/softlib/coil-100.php) |
-| 27 | Home Objects Dataset | [🔗](http://www.vision.caltech.edu/pmoreels/Datasets/Home_Objects_06/) |
+| 27 | Home Objects Dataset | [🔗](https://deepmind.com/research/open-source/kinetics) |
+| 28 | Kinetics-700 Dataset | [🔗](http://www.vision.caltech.edu/pmoreels/Datasets/Home_Objects_06/) |
+| 29 | Unity Home Interior Dataset | [🔗](https://resources.unity.com/ai-ml/sample-home-datasets) |
+| 30 | Visual Genome Dataset | [🔗](http://visualgenome.org/?ref=hackernoon.com) |
+| 31 | HMegaFace Dataset | [🔗](http://megaface.cs.washington.edu/dataset/download.html |
+| 32 | Indoor Scene Recognition Dataset | [🔗](http://web.mit.edu/torralba/www/indoor.html) |
 
 
 
