@@ -40,4 +40,5 @@ Computer Science Engineering (CSE) and Information and Technology (IT) are techn
 | 32 | Indoor Scene Recognition Dataset | [🔗](http://web.mit.edu/torralba/www/indoor.html) |
 
 
+## 1.2. Natural Language Processing 
 
