@@ -42,3 +42,10 @@ Computer Science Engineering (CSE) and Information and Technology (IT) are techn
 
 ## 1.2. Natural Language Processing 
 
+
+| S.N. | Project | Resources | 
+| :------: | ------- | :--------: |
+| 1 | Yelp Dataset | [🔗](https://www.yelp.com/dataset) |
+| 2 | TIMIT Acoustic-Phonetic Continuous Speech Corpus | [🔗](https://catalog.ldc.upenn.edu/LDC93S1) |
+| 3 | English Plaintext Jokes  | [🔗](https://github.com/taivop/joke-dataset) |
+| 4 | The 20 Newsgroups Dataset | [🔗](http://qwone.com/~jason/20Newsgroups/) |
