@@ -49,3 +49,5 @@ Computer Science Engineering (CSE) and Information and Technology (IT) are techn
 | 2 | TIMIT Acoustic-Phonetic Continuous Speech Corpus | [🔗](https://catalog.ldc.upenn.edu/LDC93S1) |
 | 3 | English Plaintext Jokes  | [🔗](https://github.com/taivop/joke-dataset) |
 | 4 | The 20 Newsgroups Dataset | [🔗](http://qwone.com/~jason/20Newsgroups/) |
+| 5 | Open Library Data Dumps | [🔗](https://openlibrary.org/developers/dumps) |
+| 6 | The Stanford Question Answering Dataset | [🔗](https://rajpurkar.github.io/SQuAD-explorer/) |
