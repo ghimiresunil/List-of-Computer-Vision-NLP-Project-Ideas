@@ -51,3 +51,7 @@ Computer Science Engineering (CSE) and Information and Technology (IT) are techn
 | 4 | The 20 Newsgroups Dataset | [🔗](http://qwone.com/~jason/20Newsgroups/) |
 | 5 | Open Library Data Dumps | [🔗](https://openlibrary.org/developers/dumps) |
 | 6 | The Stanford Question Answering Dataset | [🔗](https://rajpurkar.github.io/SQuAD-explorer/) |
+| 7 | Amazon Review Data | [🔗](https://nijianmo.github.io/amazon/index.html) |
+| 8 | LibriSpeech ASR corpus | [🔗](https://www.openslr.org/12/) |
+| 9 | WordNet Dataset | [🔗](https://wordnet.princeton.edu/) |
+| 10 | Enron Email Dataset | [🔗](https://www.cs.cmu.edu/~enron/) |
