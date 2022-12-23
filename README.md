@@ -55,3 +55,6 @@ Computer Science Engineering (CSE) and Information and Technology (IT) are techn
 | 8 | LibriSpeech ASR corpus | [🔗](https://www.openslr.org/12/) |
 | 9 | WordNet Dataset | [🔗](https://wordnet.princeton.edu/) |
 | 10 | Enron Email Dataset | [🔗](https://www.cs.cmu.edu/~enron/) |
+| 11 | Cornell Movie Dialogs Corpus | [🔗](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) |
+| 12 | Spambase Data Set  | [🔗](https://archive.ics.uci.edu/ml/datasets/Spambase) |
+| 13 | Text Categorization Collection Data Set  | [🔗](https://archive.ics.uci.edu/ml/datasets/Reuters-21578+Text+Categorization+Collection) |
